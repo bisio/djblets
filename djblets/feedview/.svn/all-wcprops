@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/misc/!svn/ver/11852/trunk/djblets/djblets/feedview
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/misc/!svn/ver/11852/trunk/djblets/djblets/feedview/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/misc/!svn/ver/11765/trunk/djblets/djblets/feedview/__init__.py
+END
+feedparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/misc/!svn/ver/11830/trunk/djblets/djblets/feedview/feedparser.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/misc/!svn/ver/11852/trunk/djblets/djblets/feedview/tests.py
+END
+test_urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/misc/!svn/ver/11808/trunk/djblets/djblets/feedview/test_urls.py
+END

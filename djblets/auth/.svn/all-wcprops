@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/misc/!svn/ver/11890/trunk/djblets/djblets/auth
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/misc/!svn/ver/11890/trunk/djblets/djblets/auth/util.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/misc/!svn/ver/11797/trunk/djblets/djblets/auth/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/misc/!svn/ver/11192/trunk/djblets/djblets/auth/__init__.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/misc/!svn/ver/11797/trunk/djblets/djblets/auth/forms.py
+END

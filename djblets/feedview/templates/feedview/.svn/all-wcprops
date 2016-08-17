@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/misc/!svn/ver/11808/trunk/djblets/djblets/feedview/templates/feedview
+END
+feed-page.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/misc/!svn/ver/11808/trunk/djblets/djblets/feedview/templates/feedview/feed-page.html
+END
+feed-inline.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/misc/!svn/ver/11808/trunk/djblets/djblets/feedview/templates/feedview/feed-inline.html
+END

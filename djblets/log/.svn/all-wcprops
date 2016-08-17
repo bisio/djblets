@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/misc/!svn/ver/12140/trunk/djblets/djblets/log
+END
+siteconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/misc/!svn/ver/11866/trunk/djblets/djblets/log/siteconfig.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/misc/!svn/ver/11897/trunk/djblets/djblets/log/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/misc/!svn/ver/12140/trunk/djblets/djblets/log/__init__.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/misc/!svn/ver/11852/trunk/djblets/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/misc/!svn/ver/11841/trunk/djblets/tests/__init__.py
+END
+pyflakes.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/misc/!svn/ver/11852/trunk/djblets/tests/pyflakes.exclude
+END
+run-pyflakes.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/misc/!svn/ver/11852/trunk/djblets/tests/run-pyflakes.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/misc/!svn/ver/11841/trunk/djblets/tests/settings.py
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/misc/!svn/ver/11841/trunk/djblets/tests/runtests.py
+END

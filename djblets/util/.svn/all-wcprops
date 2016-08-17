@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/misc/!svn/ver/12141/trunk/djblets/djblets/util
+END
+dbevolution.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/misc/!svn/ver/11830/trunk/djblets/djblets/util/dbevolution.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/misc/!svn/ver/11960/trunk/djblets/djblets/util/misc.py
+END
+testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/misc/!svn/ver/11696/trunk/djblets/djblets/util/testing.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/misc/!svn/ver/11585/trunk/djblets/djblets/util/__init__.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/misc/!svn/ver/11965/trunk/djblets/djblets/util/http.py
+END
+dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/misc/!svn/ver/11949/trunk/djblets/djblets/util/dates.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/misc/!svn/ver/11852/trunk/djblets/djblets/util/tests.py
+END
+db.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/misc/!svn/ver/11830/trunk/djblets/djblets/util/db.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/misc/!svn/ver/11852/trunk/djblets/djblets/util/decorators.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/misc/!svn/ver/11960/trunk/djblets/djblets/util/context_processors.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/misc/!svn/ver/12141/trunk/djblets/djblets/util/fields.py
+END
+rooturl.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/misc/!svn/ver/11852/trunk/djblets/djblets/util/rooturl.py
+END

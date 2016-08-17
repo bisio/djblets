@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/misc/!svn/ver/11954/trunk/djblets/djblets/webapi
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/misc/!svn/ver/11954/trunk/djblets/djblets/webapi/core.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/misc/!svn/ver/11847/trunk/djblets/djblets/webapi/errors.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/misc/!svn/ver/11692/trunk/djblets/djblets/webapi/__init__.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/misc/!svn/ver/11697/trunk/djblets/djblets/webapi/auth.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/misc/!svn/ver/11906/trunk/djblets/djblets/webapi/decorators.py
+END

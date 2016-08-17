@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/misc/!svn/ver/12017/trunk/djblets/djblets/util/templatetags
+END
+djblets_images.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/misc/!svn/ver/11911/trunk/djblets/djblets/util/templatetags/djblets_images.py
+END
+djblets_forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/misc/!svn/ver/11807/trunk/djblets/djblets/util/templatetags/djblets_forms.py
+END
+djblets_email.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/misc/!svn/ver/11852/trunk/djblets/djblets/util/templatetags/djblets_email.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/misc/!svn/ver/11693/trunk/djblets/djblets/util/templatetags/__init__.py
+END
+djblets_deco.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/misc/!svn/ver/11694/trunk/djblets/djblets/util/templatetags/djblets_deco.py
+END
+djblets_js.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/misc/!svn/ver/11918/trunk/djblets/djblets/util/templatetags/djblets_js.py
+END
+djblets_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/misc/!svn/ver/12017/trunk/djblets/djblets/util/templatetags/djblets_utils.py
+END

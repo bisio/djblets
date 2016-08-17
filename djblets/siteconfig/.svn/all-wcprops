@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/misc/!svn/ver/12062/trunk/djblets/djblets/siteconfig
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/misc/!svn/ver/11807/trunk/djblets/djblets/siteconfig/admin.py
+END
+managers.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/misc/!svn/ver/12013/trunk/djblets/djblets/siteconfig/managers.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/misc/!svn/ver/11904/trunk/djblets/djblets/siteconfig/middleware.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/misc/!svn/ver/11923/trunk/djblets/djblets/siteconfig/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/misc/!svn/ver/11807/trunk/djblets/djblets/siteconfig/__init__.py
+END
+django_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/misc/!svn/ver/12062/trunk/djblets/djblets/siteconfig/django_settings.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/misc/!svn/ver/12013/trunk/djblets/djblets/siteconfig/models.py
+END
+context_processors.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/misc/!svn/ver/11850/trunk/djblets/djblets/siteconfig/context_processors.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/misc/!svn/ver/11807/trunk/djblets/djblets/siteconfig/forms.py
+END
