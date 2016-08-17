@@ -24,48 +24,21 @@
 # TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 # SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-from ez_setup import use_setuptools
-use_setuptools()
-
 from setuptools import setup, find_packages
 
-from setuptools.command.test import test
-
-
-def run_tests(*args):
-    import os
-    os.system("tests/runtests.py")
-
-test.run_tests = run_tests
-
-
-VERSION = "0.5rc2"
-IS_RELEASE = False
-
-
-if IS_RELEASE:
-    download_url = "http://downloads.review-board.org/releases/"
-else:
-    download_url = "http://downloads.review-board.org/nightlies/"
-
+VERSION='custom'
 
 setup(name="Djblets",
       version=VERSION,
-      test_suite="dummy",
       license="MIT",
       description="A collection of useful classes and functions for Django",
       packages=find_packages(),
       install_requires=['Django>=1.0.2', 'PIL'],
-      dependency_links = [
-          "http://downloads.review-board.org/mirror/",
-          download_url,
-      ],
       include_package_data=True,
       zip_safe=False,
       maintainer="Christian Hammond",
       maintainer_email="chipx86@chipx86.com",
       url="http://www.review-board.org/wiki/Djblets",
-      download_url=download_url,
       classifiers=[
           "Development Status :: 4 - Beta",
           "Environment :: Web Environment",
